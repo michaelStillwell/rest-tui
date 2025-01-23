@@ -1,5 +1,7 @@
 # `rest-tui`
 
+![example gif](./rest-tui.gif)
+
 Are you tired of writing out long `curl` commands? Don't want to go through the 4 minutes of starting
 up Postman? Well do I have a product for you: `rest-tui`!
 
